@@ -1,1 +1,1 @@
-Task 7: moves a file from position to another
+Task 8: Removes the file betty using rm
