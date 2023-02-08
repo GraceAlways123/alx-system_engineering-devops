@@ -1,1 +1,1 @@
-Task 5: list all contents of a dir
+Task 6: creates a directory in the /tmp
