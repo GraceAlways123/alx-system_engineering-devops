@@ -1,1 +1,1 @@
-Task 6: creates a directory in the /tmp
+Task 7: moves a file from position to another
