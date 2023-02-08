@@ -1,1 +1,1 @@
-Task 2: changes to root directory
+Task 3: list contents in long format
