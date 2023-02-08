@@ -1,1 +1,1 @@
-Task 3: list contents in long format
+Task 4: list dir contents including . files
