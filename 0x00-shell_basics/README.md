@@ -1,1 +1,1 @@
-Task 11: lists contents of 3 dir at thesame time
+Task 12: prints the type of a file
