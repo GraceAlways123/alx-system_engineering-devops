@@ -1,1 +1,1 @@
-Task 4: list dir contents including . files
+Task 5: list all contents of a dir
