@@ -1,1 +1,1 @@
-Task 10: changes directory to the previous one
+Task 11: lists contents of 3 dir at thesame time
