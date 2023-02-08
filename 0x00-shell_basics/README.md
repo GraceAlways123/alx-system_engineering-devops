@@ -1,1 +1,1 @@
-Task 8: Removes the file betty using rm
+Task 9: deletes a directory
