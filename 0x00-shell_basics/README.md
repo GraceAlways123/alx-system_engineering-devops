@@ -1,1 +1,1 @@
-symbolic link
+Task 102: creates nested directories
